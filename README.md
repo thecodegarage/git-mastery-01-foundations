@@ -52,6 +52,8 @@ This repository simulates a **Personal Portfolio Website** project where you'll 
 
 ## 🚀 Getting Started
 
+**Note:** This repository is ready to use immediately! Unlike other practice repositories, you'll practice Git commands directly on the included files (index.html, style.css, script.js). No setup script needed.
+
 ### 1. Verify Git Installation
 
 ```bash
